@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/ecommerce-product-page-solution-qBoa0Gw7rB)
+- Live Site URL: [click here](https://ibrahim11elian.github.io/E-commerce-product-page/)
 
 ## My process
 
